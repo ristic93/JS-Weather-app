@@ -1,6 +1,6 @@
 # JS-Weather-app
 
-Made by using HTML5, CSS3 and Javascript.
+Made by using HTML5, CSS3 and Javascript with Fetch API
 
 Simple weather app that is showing temperature based on your current location.
 
